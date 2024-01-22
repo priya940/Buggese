@@ -1,4 +1,4 @@
-#Buggese
+# Buggese
 
 This web application allows users to search and discover a variety of recipes based on ingredients, cuisine, or meal type.
 
